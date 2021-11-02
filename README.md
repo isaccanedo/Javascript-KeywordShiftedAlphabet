@@ -1,0 +1,2 @@
+# Javascript-KeywordShiftedAlphabet
+:lock: O alfabeto mudado por palavra-chave é uma cifra simples que usa uma tabela de tradução criada com a ajuda de uma palavra-chave. A palavra-chave deve ser uma palavra em que cada caractere pode ocorrer apenas uma vez. Para criar a tabela de tradução, escrevemos todos os caracteres do alfabeto na primeira. A segunda linha começa com a palavra-chave e, em seguida, continuamos com o restante dos caracteres ausentes em ordem alfabética.
